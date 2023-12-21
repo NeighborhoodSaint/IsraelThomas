@@ -13,7 +13,7 @@
 <h2>📱Connect with me:</h2>
 
 
-[<img align="left-center" alt="Israel" | LinkedIn" width="22px" src="[https://www.linkedin.com/in/israel-t-92988a18b" />][linkedin]
+[<img align="left-center" alt="Israel | LinkedIn" width="22px" src="[https://www.linkedin.com/in/israel-t-92988a18b" />][linkedin]
 
 
 [linkedin]: www.linkedin.com/in/israel-t-92988a18b
