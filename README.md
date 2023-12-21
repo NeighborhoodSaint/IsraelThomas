@@ -16,10 +16,8 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="[https://www.linkedin.com/in/israel-t-92988a18b" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: www.linkedin.com/in/
-israel-t-92988a18b
+
+[linkedin]: www.linkedin.com/in/israel-t-92988a18b
 
 
 
